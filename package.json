@@ -1,0 +1,25 @@
+{
+  "name": "cloud2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asm492/cloud2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asm492/cloud2/issues"
+  },
+  "homepage": "https://github.com/asm492/cloud2#readme",
+  "dependencies": {
+    "mongoose": "^5.12.3",
+    "mosca": "^2.8.3",
+    "mqtt": "^4.2.6",
+    "uuid": "^8.3.2"
+  }
+}
