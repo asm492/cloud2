@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/asm492/cloud2#readme",
   "dependencies": {
+    "json2xml": "^0.1.3",
     "mongoose": "^5.12.3",
     "mosca": "^2.8.3",
     "mqtt": "^4.2.6",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "xml2js": "^0.4.23"
   }
 }
