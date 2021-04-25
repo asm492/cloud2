@@ -2,4 +2,4 @@
 
 Chosen scenario: <b>Smart home</b>
 
-Our smart home consists of smart blinds, smart lights, smoke detectors and thermometers.
+Our smart home consist of a device which measures temperature and humidity.

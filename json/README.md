@@ -1,0 +1,1 @@
+Pub parses string to JSON and sends JSON payload to broker. Broker converts to string and inserts to DB. Subscriber receives string and parses to JSON before outputing to screen.
