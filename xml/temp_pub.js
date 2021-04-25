@@ -15,5 +15,3 @@ client.on('connect', () => {
         client.publish(topic, msg) 
     }, 5000)
 })
-
-
