@@ -10,7 +10,9 @@ broker.on('ready', () => {
 })
 broker.on('published', (packet) => {
     message = packet.payload.toString()
+
     console.log(message)
+    
     mongc.connect(url, (error, client) => {
         var myCol = client.db('assignment2').collection('topics') 
         myCol.insertOne({

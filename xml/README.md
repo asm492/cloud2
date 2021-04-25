@@ -1,1 +1,1 @@
-<b>Publisher</b> parses string to JSON, JSON to XML. Sends XML payload to broker which converts to sting and inserts to DB. Subscriber receives data as string, parses string to JSON and displays.
+<b>Publisher</b> parses string to JSON, JSON to XML. Sends XML payload to broker which converts to sting and inserts to DB. Subscribers receives data as string, parses string to JSON and displays.

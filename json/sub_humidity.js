@@ -1,6 +1,6 @@
 var mqtt = require('mqtt');
 var client = mqtt.connect('mqtt://localhost:8080')
-var topic = 'temperature_sensor'
+var topic = 'humidity'
 const xml2js = require('xml2js');
 
 client.on('message', (topic, message) => {
